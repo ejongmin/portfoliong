@@ -1,0 +1,8 @@
+﻿check,pass,value
+weight_sum,True,0.9999999999999994
+defensive_lte_35pct,True,0.30801177821566084
+defensive_plus_gold_lte_50pct,True,0.3705378449657407
+single_asset_caps,True,ok
+mdd_above_limit,True,-0.08540163878073148
+all_start_mdd_above_limit,True,-0.08540163878073148
+latest_weights_match_live,True,17

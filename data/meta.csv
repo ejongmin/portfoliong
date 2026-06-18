@@ -1,0 +1,54 @@
+﻿ticker,name,asset_class,currency
+SPY,S&P500 ETF,us_equity_etf,USD
+QQQ,Nasdaq100 ETF,us_equity_etf,USD
+SCHD,미국배당 ETF,us_equity_etf,USD
+IWM,미국소형주 ETF,us_equity_etf,USD
+GLD,금 ETF,gold,USD
+IEF,미국채7-10년 ETF,bond,USD
+SHY,미국채1-3년 ETF,cash_usd,USD
+TLT,미국채20년+ ETF,bond,USD
+NVDA,엔비디아,us_stock,USD
+MSFT,마이크로소프트,us_stock,USD
+AAPL,애플,us_stock,USD
+GOOGL,알파벳,us_stock,USD
+AMZN,아마존,us_stock,USD
+META,메타,us_stock,USD
+AVGO,브로드컴,us_stock,USD
+TSLA,테슬라,us_stock,USD
+LLY,일라이릴리,us_stock,USD
+JPM,JP모건,us_stock,USD
+V,비자,us_stock,USD
+XOM,엑슨모빌,us_stock,USD
+COST,코스트코,us_stock,USD
+AMD,AMD,us_stock,USD
+069500.KS,KODEX 200,kr_equity_etf,KRW
+229200.KS,KODEX 코스닥150,kr_equity_etf,KRW
+360750.KS,TIGER 미국S&P500,us_equity_krx,KRW
+133690.KS,TIGER 미국나스닥100,us_equity_krx,KRW
+411060.KS,ACE KRX금현물,gold,KRW
+261240.KS,KODEX 미국달러선물,cash_usd,KRW
+153130.KS,KODEX 단기채권,cash_krw,KRW
+148070.KS,KOSEF 국고채10년,bond,KRW
+458730.KS,TIGER 미국배당다우존스,us_equity_krx,KRW
+005930.KS,삼성전자,kr_stock,KRW
+000660.KS,SK하이닉스,kr_stock,KRW
+005380.KS,현대차,kr_stock,KRW
+000270.KS,기아,kr_stock,KRW
+035420.KS,NAVER,kr_stock,KRW
+068270.KS,셀트리온,kr_stock,KRW
+207940.KS,삼성바이오로직스,kr_stock,KRW
+373220.KS,LG에너지솔루션,kr_stock,KRW
+051910.KS,LG화학,kr_stock,KRW
+006400.KS,삼성SDI,kr_stock,KRW
+105560.KS,KB금융,kr_stock,KRW
+055550.KS,신한지주,kr_stock,KRW
+012450.KS,한화에어로스페이스,kr_stock,KRW
+042660.KS,한화오션,kr_stock,KRW
+009540.KS,HD한국조선해양,kr_stock,KRW
+034020.KS,두산에너빌리티,kr_stock,KRW
+028260.KS,삼성물산,kr_stock,KRW
+^GSPC,S&P500 지수,benchmark,USD
+^KS11,KOSPI 지수,benchmark,KRW
+^VIX,VIX,aux,USD
+KRW=X,USD/KRW,fx,KRW
+^IRX,미국 13주 T-bill 금리,aux,USD

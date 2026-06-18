@@ -1,0 +1,174 @@
+﻿ticker,weight,model,name,asset_class
+153130.KS,0.11085478850899663,Core_InvVol_All,KODEX 단기채권,cash_krw
+148070.KS,0.0715214649933331,Core_InvVol_All,KOSEF 국고채10년,bond
+360750.KS,0.05063324418570947,Core_InvVol_All,TIGER 미국S&P500,us_equity_krx
+SHY,0.04409323502307721,Core_InvVol_All,미국채1-3년 ETF,cash_usd
+261240.KS,0.043783087980406914,Core_InvVol_All,KODEX 미국달러선물,cash_usd
+458730.KS,0.043575839732545224,Core_InvVol_All,TIGER 미국배당다우존스,us_equity_krx
+IEF,0.039085102973298,Core_InvVol_All,미국채7-10년 ETF,bond
+133690.KS,0.03722971826127714,Core_InvVol_All,TIGER 미국나스닥100,us_equity_krx
+TLT,0.03221715706277422,Core_InvVol_All,미국채20년+ ETF,bond
+SCHD,0.03140428214327246,Core_InvVol_All,미국배당 ETF,us_equity_etf
+SPY,0.026544598401125483,Core_InvVol_All,S&P500 ETF,us_equity_etf
+COST,0.023970345865674248,Core_InvVol_All,코스트코,us_stock
+QQQ,0.022343696750704915,Core_InvVol_All,Nasdaq100 ETF,us_equity_etf
+IWM,0.020915298929507175,Core_InvVol_All,미국소형주 ETF,us_equity_etf
+JPM,0.020039389408306674,Core_InvVol_All,JP모건,us_stock
+AAPL,0.019783058015094543,Core_InvVol_All,애플,us_stock
+V,0.018786454317141182,Core_InvVol_All,비자,us_stock
+411060.KS,0.017473091731509044,Core_InvVol_All,ACE KRX금현물,gold
+XOM,0.017132862041101038,Core_InvVol_All,엑슨모빌,us_stock
+MSFT,0.01688906141640253,Core_InvVol_All,마이크로소프트,us_stock
+AMZN,0.015682335601867287,Core_InvVol_All,아마존,us_stock
+GLD,0.015364703677268226,Core_InvVol_All,금 ETF,gold
+GOOGL,0.014358633539112311,Core_InvVol_All,알파벳,us_stock
+TSLA,0.013695802270800217,Core_InvVol_All,테슬라,us_stock
+207940.KS,0.013401410894596852,Core_InvVol_All,삼성바이오로직스,kr_stock
+NVDA,0.013331532006634995,Core_InvVol_All,엔비디아,us_stock
+META,0.013079107418511475,Core_InvVol_All,메타,us_stock
+055550.KS,0.012951773655429707,Core_InvVol_All,신한지주,kr_stock
+035420.KS,0.012342822094922044,Core_InvVol_All,NAVER,kr_stock
+105560.KS,0.012018683853359002,Core_InvVol_All,KB금융,kr_stock
+AVGO,0.011885878327857733,Core_InvVol_All,브로드컴,us_stock
+LLY,0.011553802825058109,Core_InvVol_All,일라이릴리,us_stock
+068270.KS,0.011447687766845937,Core_InvVol_All,셀트리온,kr_stock
+373220.KS,0.009436962549357364,Core_InvVol_All,LG에너지솔루션,kr_stock
+069500.KS,0.00919799608901434,Core_InvVol_All,KODEX 200,kr_equity_etf
+009540.KS,0.009066662436975738,Core_InvVol_All,HD한국조선해양,kr_stock
+229200.KS,0.009045359371815389,Core_InvVol_All,KODEX 코스닥150,kr_equity_etf
+000270.KS,0.008766376171955846,Core_InvVol_All,기아,kr_stock
+012450.KS,0.008110699224612508,Core_InvVol_All,한화에어로스페이스,kr_stock
+028260.KS,0.007914140422221346,Core_InvVol_All,삼성물산,kr_stock
+042660.KS,0.007776659066420274,Core_InvVol_All,한화오션,kr_stock
+034020.KS,0.007706125235493201,Core_InvVol_All,두산에너빌리티,kr_stock
+051910.KS,0.007646259159729285,Core_InvVol_All,LG화학,kr_stock
+AMD,0.007510434506213117,Core_InvVol_All,AMD,us_stock
+005930.KS,0.007452615113759029,Core_InvVol_All,삼성전자,kr_stock
+005380.KS,0.00739451328104862,Core_InvVol_All,현대차,kr_stock
+006400.KS,0.007080650088178069,Core_InvVol_All,삼성SDI,kr_stock
+000660.KS,0.006504595609684768,Core_InvVol_All,SK하이닉스,kr_stock
+360750.KS,0.11599711175655271,ETF_Only_Core,TIGER 미국S&P500,us_equity_krx
+153130.KS,0.11359574459836623,ETF_Only_Core,KODEX 단기채권,cash_krw
+458730.KS,0.09982910699544491,ETF_Only_Core,TIGER 미국배당다우존스,us_equity_krx
+133690.KS,0.08529060026213339,ETF_Only_Core,TIGER 미국나스닥100,us_equity_krx
+148070.KS,0.0732898793093119,ETF_Only_Core,KOSEF 국고채10년,bond
+SCHD,0.07194494613156982,ETF_Only_Core,미국배당 ETF,us_equity_etf
+SPY,0.06081176106304474,ETF_Only_Core,S&P500 ETF,us_equity_etf
+QQQ,0.05118779826826784,ETF_Only_Core,Nasdaq100 ETF,us_equity_etf
+IWM,0.04791544184783816,ETF_Only_Core,미국소형주 ETF,us_equity_etf
+SHY,0.045183468676147594,ETF_Only_Core,미국채1-3년 ETF,cash_usd
+261240.KS,0.0448656530479643,ETF_Only_Core,KODEX 미국달러선물,cash_usd
+IEF,0.040051507333806115,ETF_Only_Core,미국채7-10년 ETF,bond
+411060.KS,0.040029593341451265,ETF_Only_Core,ACE KRX금현물,gold
+GLD,0.03519942832463059,ETF_Only_Core,금 ETF,gold
+TLT,0.03301374703440383,ETF_Only_Core,미국채20년+ ETF,bond
+069500.KS,0.021071945861506944,ETF_Only_Core,KODEX 200,kr_equity_etf
+229200.KS,0.0207222661475597,ETF_Only_Core,KODEX 코스닥150,kr_equity_etf
+SHY,0.03125,Reject_EW,미국채1-3년 ETF,cash_usd
+261240.KS,0.03125,Reject_EW,KODEX 미국달러선물,cash_usd
+LLY,0.03125,Reject_EW,일라이릴리,us_stock
+153130.KS,0.03125,Reject_EW,KODEX 단기채권,cash_krw
+068270.KS,0.03125,Reject_EW,셀트리온,kr_stock
+207940.KS,0.03125,Reject_EW,삼성바이오로직스,kr_stock
+COST,0.03125,Reject_EW,코스트코,us_stock
+055550.KS,0.03125,Reject_EW,신한지주,kr_stock
+AVGO,0.03125,Reject_EW,브로드컴,us_stock
+V,0.03125,Reject_EW,비자,us_stock
+AMZN,0.03125,Reject_EW,아마존,us_stock
+105560.KS,0.03125,Reject_EW,KB금융,kr_stock
+AMD,0.03125,Reject_EW,AMD,us_stock
+006400.KS,0.03125,Reject_EW,삼성SDI,kr_stock
+012450.KS,0.03125,Reject_EW,한화에어로스페이스,kr_stock
+042660.KS,0.03125,Reject_EW,한화오션,kr_stock
+458730.KS,0.03125,Reject_EW,TIGER 미국배당다우존스,us_equity_krx
+373220.KS,0.03125,Reject_EW,LG에너지솔루션,kr_stock
+360750.KS,0.03125,Reject_EW,TIGER 미국S&P500,us_equity_krx
+148070.KS,0.03125,Reject_EW,KOSEF 국고채10년,bond
+133690.KS,0.03125,Reject_EW,TIGER 미국나스닥100,us_equity_krx
+009540.KS,0.03125,Reject_EW,HD한국조선해양,kr_stock
+IEF,0.03125,Reject_EW,미국채7-10년 ETF,bond
+TLT,0.03125,Reject_EW,미국채20년+ ETF,bond
+051910.KS,0.03125,Reject_EW,LG화학,kr_stock
+SCHD,0.03125,Reject_EW,미국배당 ETF,us_equity_etf
+069500.KS,0.03125,Reject_EW,KODEX 200,kr_equity_etf
+SPY,0.03125,Reject_EW,S&P500 ETF,us_equity_etf
+IWM,0.03125,Reject_EW,미국소형주 ETF,us_equity_etf
+QQQ,0.03125,Reject_EW,Nasdaq100 ETF,us_equity_etf
+229200.KS,0.03125,Reject_EW,KODEX 코스닥150,kr_equity_etf
+AAPL,0.03125,Reject_EW,애플,us_stock
+153130.KS,0.11359574459836623,Reject_InvVol,KODEX 단기채권,cash_krw
+148070.KS,0.0732898793093119,Reject_InvVol,KOSEF 국고채10년,bond
+360750.KS,0.07170288373316162,Reject_InvVol,TIGER 미국S&P500,us_equity_krx
+458730.KS,0.061708733464869034,Reject_InvVol,TIGER 미국배당다우존스,us_equity_krx
+133690.KS,0.05272184713497268,Reject_InvVol,TIGER 미국나스닥100,us_equity_krx
+SHY,0.045183468676147594,Reject_InvVol,미국채1-3년 ETF,cash_usd
+261240.KS,0.0448656530479643,Reject_InvVol,KODEX 미국달러선물,cash_usd
+SCHD,0.04447231512528684,Reject_InvVol,미국배당 ETF,us_equity_etf
+IEF,0.040051507333806115,Reject_InvVol,미국채7-10년 ETF,bond
+SPY,0.03759040692550677,Reject_InvVol,S&P500 ETF,us_equity_etf
+COST,0.033944949613463705,Reject_InvVol,코스트코,us_stock
+TLT,0.03301374703440383,Reject_InvVol,미국채20년+ ETF,bond
+QQQ,0.03164141496461703,Reject_InvVol,Nasdaq100 ETF,us_equity_etf
+IWM,0.029618628462484316,Reject_InvVol,미국소형주 ETF,us_equity_etf
+AAPL,0.02801523646282708,Reject_InvVol,애플,us_stock
+V,0.026603923397041797,Reject_InvVol,비자,us_stock
+AMZN,0.022208110588388435,Reject_InvVol,아마존,us_stock
+207940.KS,0.018978041456541906,Reject_InvVol,삼성바이오로직스,kr_stock
+055550.KS,0.018341299979660577,Reject_InvVol,신한지주,kr_stock
+105560.KS,0.017019930380172073,Reject_InvVol,KB금융,kr_stock
+AVGO,0.016831861467992305,Reject_InvVol,브로드컴,us_stock
+LLY,0.016361601828287192,Reject_InvVol,일라이릴리,us_stock
+068270.KS,0.01621132989126854,Reject_InvVol,셀트리온,kr_stock
+373220.KS,0.013363896375846855,Reject_InvVol,LG에너지솔루션,kr_stock
+069500.KS,0.013025490559714357,Reject_InvVol,KODEX 200,kr_equity_etf
+009540.KS,0.01283950600087716,Reject_InvVol,HD한국조선해양,kr_stock
+229200.KS,0.012809338247873813,Reject_InvVol,KODEX 코스닥150,kr_equity_etf
+012450.KS,0.011485744847081557,Reject_InvVol,한화에어로스페이스,kr_stock
+042660.KS,0.011012703014383335,Reject_InvVol,한화오션,kr_stock
+051910.KS,0.010828040753478513,Reject_InvVol,LG화학,kr_stock
+AMD,0.010635696385745593,Reject_InvVol,AMD,us_stock
+006400.KS,0.010027068938456937,Reject_InvVol,삼성SDI,kr_stock
+SHY,0.15581493179563852,TopScore_InvVol,미국채1-3년 ETF,cash_usd
+261240.KS,0.15581493179563852,TopScore_InvVol,KODEX 미국달러선물,cash_usd
+SPY,0.14189270738544946,TopScore_InvVol,S&P500 ETF,us_equity_etf
+QQQ,0.1325884897137971,TopScore_InvVol,Nasdaq100 ETF,us_equity_etf
+SCHD,0.12562649284986097,TopScore_InvVol,미국배당 ETF,us_equity_etf
+IWM,0.11452397182675444,TopScore_InvVol,미국소형주 ETF,us_equity_etf
+229200.KS,0.07784908542225262,TopScore_InvVol,KODEX 코스닥150,kr_equity_etf
+069500.KS,0.0437338783575917,TopScore_InvVol,KODEX 200,kr_equity_etf
+TLT,0.021209829048261162,TopScore_InvVol,미국채20년+ ETF,bond
+IEF,0.017160307360461733,TopScore_InvVol,미국채7-10년 ETF,bond
+051910.KS,0.013773031688728952,TopScore_InvVol,LG화학,kr_stock
+009540.KS,1.2342755564921406e-05,TopScore_InvVol,HD한국조선해양,kr_stock
+153130.KS,0.11359574459836623,IC_Gated_RejectInvVol,KODEX 단기채권,cash_krw
+148070.KS,0.0732898793093119,IC_Gated_RejectInvVol,KOSEF 국고채10년,bond
+360750.KS,0.07170288373316162,IC_Gated_RejectInvVol,TIGER 미국S&P500,us_equity_krx
+458730.KS,0.061708733464869034,IC_Gated_RejectInvVol,TIGER 미국배당다우존스,us_equity_krx
+133690.KS,0.05272184713497268,IC_Gated_RejectInvVol,TIGER 미국나스닥100,us_equity_krx
+SHY,0.045183468676147594,IC_Gated_RejectInvVol,미국채1-3년 ETF,cash_usd
+261240.KS,0.0448656530479643,IC_Gated_RejectInvVol,KODEX 미국달러선물,cash_usd
+SCHD,0.04447231512528684,IC_Gated_RejectInvVol,미국배당 ETF,us_equity_etf
+IEF,0.040051507333806115,IC_Gated_RejectInvVol,미국채7-10년 ETF,bond
+SPY,0.03759040692550677,IC_Gated_RejectInvVol,S&P500 ETF,us_equity_etf
+COST,0.033944949613463705,IC_Gated_RejectInvVol,코스트코,us_stock
+TLT,0.03301374703440383,IC_Gated_RejectInvVol,미국채20년+ ETF,bond
+QQQ,0.03164141496461703,IC_Gated_RejectInvVol,Nasdaq100 ETF,us_equity_etf
+IWM,0.029618628462484316,IC_Gated_RejectInvVol,미국소형주 ETF,us_equity_etf
+AAPL,0.02801523646282708,IC_Gated_RejectInvVol,애플,us_stock
+V,0.026603923397041797,IC_Gated_RejectInvVol,비자,us_stock
+AMZN,0.022208110588388435,IC_Gated_RejectInvVol,아마존,us_stock
+207940.KS,0.018978041456541906,IC_Gated_RejectInvVol,삼성바이오로직스,kr_stock
+055550.KS,0.018341299979660577,IC_Gated_RejectInvVol,신한지주,kr_stock
+105560.KS,0.017019930380172073,IC_Gated_RejectInvVol,KB금융,kr_stock
+AVGO,0.016831861467992305,IC_Gated_RejectInvVol,브로드컴,us_stock
+LLY,0.016361601828287192,IC_Gated_RejectInvVol,일라이릴리,us_stock
+068270.KS,0.01621132989126854,IC_Gated_RejectInvVol,셀트리온,kr_stock
+373220.KS,0.013363896375846855,IC_Gated_RejectInvVol,LG에너지솔루션,kr_stock
+069500.KS,0.013025490559714357,IC_Gated_RejectInvVol,KODEX 200,kr_equity_etf
+009540.KS,0.01283950600087716,IC_Gated_RejectInvVol,HD한국조선해양,kr_stock
+229200.KS,0.012809338247873813,IC_Gated_RejectInvVol,KODEX 코스닥150,kr_equity_etf
+012450.KS,0.011485744847081557,IC_Gated_RejectInvVol,한화에어로스페이스,kr_stock
+042660.KS,0.011012703014383335,IC_Gated_RejectInvVol,한화오션,kr_stock
+051910.KS,0.010828040753478513,IC_Gated_RejectInvVol,LG화학,kr_stock
+AMD,0.010635696385745593,IC_Gated_RejectInvVol,AMD,us_stock
+006400.KS,0.010027068938456937,IC_Gated_RejectInvVol,삼성SDI,kr_stock
